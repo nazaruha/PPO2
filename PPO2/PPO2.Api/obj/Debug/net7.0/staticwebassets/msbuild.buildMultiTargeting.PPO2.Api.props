@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PPO2.Api.props" />
+</Project>

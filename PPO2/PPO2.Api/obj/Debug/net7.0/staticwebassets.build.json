@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EboNJ7WGepX10+aMQZrWd6La8iSdRytn5rnO8sHu43w=",
+  "Source": "PPO2.Api",
+  "BasePath": "_content/PPO2.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
